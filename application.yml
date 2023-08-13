@@ -1,6 +1,6 @@
 spring:
 application:
-name: config-default-service
+name: config-default-service-springCloud
 eureka:
   instance:
     prefer-ip-address: true
